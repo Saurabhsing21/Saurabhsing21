@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">"Passionate MERN Full Stack Developer Building Seamless Backend Solutions"</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/[I162077/screenshots/3848914/programmer.gif">
 
 
 - I'm working on virtual bookshelf **Virtual Bookshelf**
