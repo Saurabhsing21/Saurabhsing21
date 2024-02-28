@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
+![image](https://github.com/Saurabhsing21/Saurabhsing21/assets/155900060/1ef0bf39-d676-4491-a7ad-acaacb85f404)<h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">"Passionate MERN Full Stack Developer Building Seamless Backend Solutions"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Saurabhsing21/Saurabhsing21/assets/155900060/80db4ebd-4e21-4394-b8bc-7bcca766772b)"
+">
 
 
 - I'm working on virtual bookshelf **Virtual Bookshelf**
