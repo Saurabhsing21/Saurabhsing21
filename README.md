@@ -13,8 +13,9 @@
 -  **Tech Stack:** Python, C++, React/Next.js, Node.js, and MongoDB.
 
 ###  Featured AI Projects
-- **[Evidence Collector Agent](https://github.com/Saurabhsing21/Literature-MCP):** A multi-agent system using custom MCP servers to automate research workflows.
-- **[DeepMap-MCP](https://github.com/Saurabhsing21/Deepmap-mcp):** Open-source server facilitating AI-driven functional genomics.
+- **[Drug Discovery agent](https://github.com/Saurabhsing21/Drug-disovery-agent):** A multi-agent system using custom MCP servers to automate research workflows.
+- **[DeepMap-MCP](https://github.com/Saurabhsing21/Deepmap-mcp):** Open-source MCP server for high-performance functional genomics analysis via the Broad Institute’s DepMap CRISPR datasets. 
+- **[Litrature-MCP](https://github.com/Saurabhsing21/Deepmap-mcp):** Open-source MCP server providing structured, ranked evidence retrieval from the Europe PMC publication database.
 - **[ExploitDB-RAG](https://github.com/Saurabhsing21/ExploitDB-RAG):** A Retrieval-Augmented Generation system for cybersecurity datasets.
 
 
